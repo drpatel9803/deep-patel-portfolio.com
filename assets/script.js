@@ -84,7 +84,7 @@
       let emailSent = false;
       let smsSent = false;
       try {
-        const emailResponse = await fetch('https://formsubmit.co/ajax/deeppatel8144@gmail.com', {
+        const emailResponse = await fetch('https://formsubmit.co/ajax/deep.patel.cyber.21@gmail.com', {
           method: 'POST',
           body: formData,
           headers: { 'Accept': 'application/json' }
